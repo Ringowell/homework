@@ -1,0 +1,24 @@
+Incident 862: AI-Generated Video Falsely Depicts Martin Luther King Jr. Supporting Donald Trump
+
+
+Description: A deepfake video falsely depicting Martin Luther King Jr. endorsing Donald Trump circulated on X, where it was viewed over 10 million times. The video, created by pro-Trump accounts, was condemned by King’s daughter, Bernice King, who called it “vile” and demanded its removal.
+
+A deepfake showed MLK Jr. backing Trump. His daughter calls it ‘vile.’
+washingtonpost.com · 2024
+
+		
+The Rev. Martin Luther King Jr.'s daughter Bernice on Monday condemned an artificially generated video of the Civil Rights leader praising former president Donald Trump, as both parties court Black voters ahead of Election Day.
+The video, posted Sunday night on the social network X by a pro-Trump account called MAGA Resource, falsely depicted King urging Black people to vote for Trump, claiming he did "more for the Black community than any other president." By late Monday it had garnered over 10 million views.
+Bernice King posted Monday on X denouncing the video and called for it to be deleted. "It's vile, fake, irresponsible, and not at all reflective of what my father would say," King said. "And you gave no thought to our family."
+X users who contribute to crowdsourced fact-checking on the platform attached a note to the video post Monday, labeling it as "a deepfake," a term used for images, video or audio made with artificial intelligence.
+The fake AI video comes in the closing hours of a presidential race in which deepfakes emerged early. In January, voters in New Hampshire were targeted by a robocall with deepfake audio of President Joe Biden's voice encouraging people not to vote in the state's primary.
+"We're in kind of the 'throw spaghetti at the wall' moment of politics and AI, where this intersection allows people to try new things for propaganda," said Rachel Tobac, chief executive of SocialProof Security, an ethical hacking company. "I think we're going to see people try anything they can to influence the election."
+The fake video of King, who was assassinated in 1968, originally surfaced on X in February via the account Ramble Rants, which is part of a loosely organized group called the Dilley Meme Team that makes memes supporting Trump.
+Brenden Dilley responded to Bernice King's post calling for the video to be deleted saying only, "Welcome to 2024." The MAGA Resource account did not immediately reply to a request for comment. The Ramble Rants account posted on X that the "bulls---" fact-checking note on the platform labeling this video a deepfake was "missing the point and not needed."
+During the 2024 election, AI-generated misinformation has repeatedly gone viral, drawing attention from regulators and observers watching for the effect AI may have on the democratic process. AI experts are unsure how much impact this content has had on changing people's opinions of the candidates or their choices at the ballot box.
+In March, the BBC unearthed dozens of AI-generated false images portraying Black people supporting Trump. X owner Elon Musk, who supports Trump, in July targeted Biden's replacement in the race, sharing on X an AI-generated audio deepfake of Vice President Kamala Harris falsely celebrating the president's decision to drop out. The clip was viewed over 100 million times.
+Trump in August shared an AI-generated fake image of Taylor Swift fans endorsing his campaign, a stunt the singer cited in her subsequent endorsement of Harris.
+More than a dozen U.S. states have laws penalizing people who use AI to make deceptive videos about politicians, creating a patchwork of policy across the country. The consultant who created the deepfake of Biden's voice was fined $6 million in September by the Federal Communications Commission.
+Although many companies have launched tools to catch deepfakes, their performance is unreliable, with one study finding that the methods ranged in accuracy from 82 percent to just 25 percent.
+Tobac said people probably will realize a video of King urging voters to cast a ballot for Trump is false. But she added that these videos may be used to prey on people's emotions.
+"We live ... in this strange world now where deepfakes are kind of used to say, 'but what if it were real?'" she added, "and ... using that in a partisan way."

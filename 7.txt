@@ -1,0 +1,60 @@
+Incident 882: AI-Generated Reading Summaries on Fable App Reportedly Wrote Biased and Offensive Commentary
+
+
+Description: Fable, a book-focused social app, used OpenAI’s API to generate AI-powered year-end reading summaries in December 2024. These summaries allegedly produced biased and offensive remarks about race, gender, and sexual orientation. Fable is reported to have apologized in a social media post on January 1, 2025.
+
+
+Fable’s Reader Summary Features Racism (And Probably AI)
+smartbitchestrashybooks.com · 2025
+
+		
+Hey, Happy New Year, and have a seat. There may be more AI fuckery afoot! We’ve already been discussing the proliferation of AI narrators and AI authors. Why not start the year off with a fresh generative AI trashfire, this time with a side order of Holy Shit Racism?
+Two days ago, Tiana’s LitTalk on Threads posted a screenshot of her reader summary from Fable, a social media app for readers. If you’re not familiar, Fable users can host and/or join bookclubs for every possible iteration of book or genre, and they have a storefront, too.
+And since Fable also allows users to track reading stats, like every app and service they’re showing off users’ 2024 cumulative stats.
+Ok, hold on to your jaw, because it will drop.
+This was Tianas_Littalk’s summary.
+In case you can’t read the text of the summary:
+Soulful Explorer: Your journey dives deep into the heart of Black narratives and transformative tales, leaving mainstream stories gasping for air. Don’t forget to surface for the occasional white author, okay?
+Wow.
+WOW.
+Is your jaw ok?
+So, most importantly, on December 31, Fable responded to the original post, saying:
+“Thanks for sharing, agreed this one is not ok. I’m passing it along to the team to resolve.”
+Today, January 1, they followed up:
+Just wanted to follow up on this – our team is working to make sure this never happens again. This never should have happened. Our reader summaries are intended to both capture your reading history and playfully roast your taste, but they should never, ever, include references to race, sexuality, religion, nationality, or other protected classes. We take this very seriously, apologize deeply, and appreciate you holding us accountable. We promise to do better. ❤️
+I admit to being impressed that they responded on New Year’s Day, but clearly they are paying attention to reader feedback, and read replies and tagged threads.
+I do have QUESTIONS.
+First: this is likely AI.
+The two little stars next to the word “Reader Summary” seem to indicate that it is, and the language of Fable’s response, that the reader summaries “should never, ever include references,” also suggest that a person or persons aren’t directly to blame for this choice.
+And, let me pause there because if this WAS written by a person, Fable has an even bigger problem.
+But let’s presume this is AI for the sake of this discussion.
+That means they’ve elected to use generative AI to create summaries based on, I presume, user data and specific prompts. But were the summaries proofread or reviewed by a human?
+It kinda boggles my mind that one of the major elements of contact with the people who frequently use Fable’s service is being left to AI. Egads.
+Tiana’s_LitTalk mentioned that they were on Storygraph and invited folks to connect there, indicating they might have switched platforms. A few replies echoed that they weren’t using Fable going forward. That’s…not optimal.
+Having done some, I know customer facing work can be AWFUL. I can understand a company wanting to place an AI between their employees who do customer service and the often abusive behavior of disgruntled customers. But this reader summary is for members who are already on board, and have used the service enough that they have accumulated statistics.
+Why use generative AI, which has already been repeatedly proven to be racist, sexist, incorrect, and dangerous, TO ROAST ONE’S OWN COMMUNITY?
+People in the comments of the Thread have already asked what prompts were used, which is a solid question.
+While discussing this internally, Amanda said,
+“I wonder if it’s programmed to suggest the “opposite” of something if someone is reading a lot of one thing, without knowing the cultural and contextual issues.”
+Could be, but it’s still so very gross, offensive, and appalling, regardless of the source.
+For me, this is another reminder that everywhere I go online, I’m running into AI. I have to add “-ai” to my Google searches so I don’t get an AI-generated summary. I have to maneuver through AI service prompts when I need help with something. I get an update to an app or a service, and suddenly there’s some cutesy named AI asking to talk to me.
+We already did this with Clippy. We don’t need to do this again.
+And Storygraph, linked above, uses AI to generate previews for listed books that summarize the book and its reviews and offer recommendations. I saw a few people talking about this update awhile back, and StoryGraph responded on Xitter in December 2023: 
+Hello!
+Regarding our new AI feature, which displays a short description of the type of reader a book is a good fit for:
+We are using an in-house solution. We don’t use any external APIs, all processing is done locally, and user data never leaves The StoryGraph’s servers.
+Security isn’t the only issue people have with AI, but it’s one of them, along with having their reviews and comments harvested for the AI knowledge base and possibly sold to other vendors. So I’m somewhat reassured by the statement that this is in-house only.
+Personally, I like StoryGraph for usability over Goodreads, which I find less appealing to look at and navigate when looking for book information. I don’t enter my reading data or review text at either place, though.
+Either way, the proliferation of AI is everywhere, and it’s exhausting to try to stay away from it. I’m not against technology advancements, not by a long shot. But there have been enough examples of AI being terrible and dangerous, and enough examples of how AI was trained on stolen works or sold for such use by a publisher without author consent, to make me wary of it every time I see it, and try not to use it. I don’t find it useful for search results, and I don’t need it to write for me.
+But that’s solely my experience, and I don’t want to decide for other people what technological tools are useful for them. A Sidenote: I kept getting a prompt that read “Polish” when I finished writing a message in Gmail. I spent some time looking for the language setting I must have inadvertently changed that kept asking me to translate my email into Polish. No, it’s AI and it wants to polish my email. No, thanks! But like I said: while I don’t want Polish or polish, I can also understand people asking for help writing an email when it’s daunting.
+Moreover, if AI weren’t so incredibly and completely terrible for the environment, I wouldn’t feel so resentful to have it offered to me everywhere I go and in every service I use.
+This example, however, is a different kettle of AI fish. (Note: do not ask generative AI for images of kettles of fish. Bad Idea Jeans.) I hope Fable can amend their queries so this doesn’t happen to another reader, and I still question the advantages of this usage when there is real potential for the text to go so horribly and offensively wrong.
+ETA: Jan 2, 8:30AMET
+Fable to their credit has been responding actively on Threads, and has shared more information about the summary generation:
+
+We understand and certainly recognize the magnitude. Our summaries are generated by an AI model that allows us to create a personalized stats experience for ~2 million users who update progress toward their reading goals everyday. We take the responsibility of working with AI very seriously and are constantly fine-tuning based on feedback, particularly when we are made aware of problematic generations, like this one. We are adding new guardrails to make sure no one else has this experience.
+But, alas, Tiana does not seem to be the only person to have received a reader summary that comments on racial identity. Amanda Rae on Bluesky shared another screenshot from another user:
+Diversity Devotee: Your bookshelf is a vibrant kaleidoscope of voices and experiences making me wonder if you’re ever in the mood for a straight, cis white man’s perspective!
+Update: Thanks to author Jo Conklin for alerting me to the source. This screenshot is from author Danny B. Groves.
+This one seems to be more clearly sarcastic, but again, this way leads to YIKES on BIKES.
+Also: No. I’m never in the mood for a straight cis white man’s perspective, thanks.

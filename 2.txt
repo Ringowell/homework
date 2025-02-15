@@ -1,0 +1,32 @@
+Incident 857: Navigation App Allegedly Directs Car Over Damaged Bridge in Uttar Pradesh, Resulting in Three Deaths
+
+Description: A car reportedly using Google Maps for navigation was misled onto a collapsed bridge in Uttar Pradesh, India, due to outdated GPS data. The car plunged into the river below, resulting in three fatalities.
+
+Bareilly bridge accident: Google Maps faces questions over India car plunge crash
+bbc.com · 2024
+
+Can a navigation app be held responsible if a user gets into an accident?
+That is the question being asked in India after three men died when their car veered off an unfinished bridge and fell on to a riverbed in the northern state of Uttar…
+Police are still investigating the incident, which took place on Sunday, but they believe that Google Maps led the group to take that route.
+A part of the bridge had reportedly collapsed earlier this year because of floods and while locals knew this and avoided the bridge, the three men were not aware of this and were from outside the area. There were no barricades or sign boards indicating that the bridge was unfinished.
+Authorities have named four engineers from the state's road department and an unnamed official from Google Maps in a police complaint on charges of culpable homicide.
+A spokesperson from Google told BBC Hindi that it was co-operating with the investigation.
+The tragic accident has spotlighted India's poor road infrastructure and sparked a debate on whether navigation apps like Google Maps share responsibility for such incidents.
+Some blame the app for not providing accurate information while others argue that it is a larger failure on the part of the government for not cordoning off the place.
+Google Maps is the most popular navigation app in India and has become synonymous with GPS (Global Positioning System), a satellite-based radio navigation system.
+It also powers the services of many ride-sharing, e-commerce and food delivery platforms. The app reportedly has around 60 million active users and witnesses around 50 million searches in a day.
+But the app has frequently come under scrutiny for providing incorrect directions, sometimes leading to fatal accidents.
+In 2021, a man from Maharashtra state drowned after he drove his car into a dam, allegedly while following directions on the app.
+Last year, two young doctors in Kerala state died after they drove their car into a river. Police said that they had been following a route shown by the app and cautioned people against relying on it too much when roads were flooded.
+But how does Google Maps learn about changes on a road?
+GPS signals from users’ apps track traffic changes along routes - an increase signals congestion, while a decrease suggests a road is less used. The app also receives updates from governments and users about traffic jams or closures.
+Complaints related to high traffic, or the ones notified by authorities are given priority, as Google does not have the manpower to deal with the millions of complaints streaming in daily, says Ashish Nair, the founder of mapping platform Potter Maps and a former Google Maps employee.
+"A map operator then uses satellite imagery, Google Street View and government notifications to confirm the change and update the map."
+According to Mr Nair, navigating apps cannot be held responsible for mishaps as their terms of services make it clear that users must apply their own judgement on the road and that the information provided by the app might differ from actual conditions.
+Besides, it is simply very difficult for a platform like Google, which manages maps across the world, to keep across every change that happens on a road, he adds.
+Unlike other countries, India also does not have a robust system for reporting such issues on time.
+"Data remains a big challenge in India. There is no system for infrastructural changes to be logged into a web interface, which can then be used by apps like Google Maps. Countries like Singapore have such a system," Mr Nair says.
+He adds that India's vast population and fast-paced development make it even more challenging to get accurate, real-time data. "In other words, bad maps are here to stay until governments become more proactive about collecting and sharing data."
+Lawyers are divided on whether GPS apps can be held legally responsible for road accidents.
+Advocate Saima Khan says that since India's Information Technology (IT) Act gives digital platforms like Google Maps the status of an 'intermediary' (a platform that merely disseminates information provided by a third party) it is protected against liability.
+But she adds that if it can be proven that the platform did not rectify its data despite being given correct, timely information, then it might be held liable for negligenc

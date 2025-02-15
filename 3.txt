@@ -1,0 +1,62 @@
+Incident 858: Deepfake Reportedly Used in Attempted Real Estate Fraud in Hallandale Beach, Florida
+
+
+Description: A scammer reportedly used deepfake technology to impersonate the owner of a vacant Hallandale Beach, Florida lot during a Zoom call. The scam matched forged IDs to public property records and nearly succeeded in defrauding the buyer of $52,000. The image used in the deepfake was reportedly that of a missing woman named Margrit Pritchard.
+Editor Notes: See also: Incident 864: Generative AI Allegedly Used to Facilitate $255,000 Real Estate Fraud Scheme.
+
+
+Scammers are stealing homes from under their owners' noses. AI is making it scarily easy.
+businessinsider.com · 2024
+
+		
+Spelling Manor --- a 120-room mansion in Los Angeles with its own bowling alley and beauty salon, built by Aaron Spelling, the television producer behind "Beverly Hills 90210" and "Dynasty" --- is one of the largest properties for sale in the country.
+It's been on the market for over 2 ½ years with a fittingly giant price tag: $137.5 million.
+Its owner must have been thrilled when Eric Schmidt --- the former CEO and executive chairman of Google, with a net worth of $23 billion as of October 21 --- expressed interest in purchasing it, as The Wall Street Journal reported earlier this month.
+The issue, though, is that the owner, who operates anonymously behind a limited liability company called 594 Mapleton, can't sell it to him or to anyone else. (The Journal cited previous reporting that local agents believe the owner behind the LLC is a Saudi billionaire.)
+Spelling Manor's owner told the Journal through their lawyer that scammers filed a fraudulent deed with Los Angeles County earlier this year. Two people accused of the scam in a lawsuit told the Journal that they were the rightful owners. The ongoing legal battle over the mansion's ownership stands in the way of its sale.
+Similar fights over who really owns homes and land are playing out across the country. Emboldened by AI technology and immense amounts of public information, some scammers have become bolder in their deed theft --- also called title theft --- attempts, real-estate fraud experts said. Their targets can range from mansion dwellers to owners of more modest homes and parcels of land.
+A May 2024 study by the American Land Title Association and economic research firm NDP Analytics with 783 responses found seller impersonation fraud --- when someone fakes the identities of property owners with the aim to sell their properties --- is fairly common. Twenty-eight percent of title insurance companies experienced at least one seller impersonation fraud attempt in 2023; 19% saw attempts in April 2024 alone.
+The FBI's Internet Crime Complaint Center doesn't specifically track deed fraud. However, in 2023, it processed a total of 9,521 real-estate-related complaints --- which it defines as a loss of funds from a real-estate investment --- resulting in more than $145 million in losses.
+And while Spelling Manor is a conspicuous example because of its size and value, anyone who owns a house or a piece of land could have their deed transferred away without their knowledge.
+"Maybe this brings awareness, and people start to realize that if it can happen to them, it can happen to anybody," Tyler Adams, the CEO of wire-fraud-protection company CertifID, told Business Insider. "But I hope it's not the reverse and people think, 'Fraudsters go after the big bucket. They'll never come after my $200,000 home.' Not the case. The way worse problem is in a much smaller market."
+If scammers can fake a deed, they get a house --- or maybe a mansion
+Victor Petrescu, a Miami-based attorney at the law firm LKLSG, said he handles two or three title fraud cases a year.
+He told BI he recently represented a homeowner whose identity was falsified "on a deed in order to convince someone to wire sales proceeds to a bank account."
+"I know it's still happening," he added.
+In the Spelling Manor case, Adams said the alleged deed fraud might not be a tactic to receive the full sales price of the home but to extort the rightful owner for a smaller payday in order to get the home returned to them.
+Adams said a scammer might think, "If we mess with the deed enough to the point where the lawful owners can't sell it, could we convince them to send us some crypto somewhere to get it back?"
+An attorney for Spelling Manor's owner, 594 Mapleton LLC, its listing agent, and the LA County District Attorney did not respond to requests for comment.
+Deed fraud has also complicated the ownership of Graceland, the Memphis, Tennessee, estate that belonged to Elvis Presley and remains in his family.
+Earlier this year, a company called Naussany Investments and Private Lending said it owned Graceland and announced plans to auction off the property. Presley's granddaughter, Riley Keough, sued the company, accusing it of using forged documents to claim ownership, and won the case.
+In August, a woman from Missouri, Lisa Jeanine Findley, was federally charged with fraud and identity theft in the plot to steal the historic property.
+A spokesperson from the Graceland estate did not immediately respond to a request for comment. An attorney for Findley, who was indicted on charges of mail fraud and identity theft, also did not respond to a request for comment.
+Adams said the first step in fighting this type of fraud is to strengthen the verification process for recording documents.
+"I think that collectively as a society, what we need to do is institute better identity verification for all of these things, so when somebody is filing a new deed at a county clerk's office, that office should have good identity-verification practices to make sure that the person who's filing that deed is who they say they are," Adams told BI.
+"Because at the root of all of these scams is an identity problem," he added.
+Deed fraud has also frustrated regular property owners
+Scammers aren't just targeting the big fish.
+In 2023, William Gordon's vacant land in Arizona was sold to someone else without his knowledge.
+Gordon had purchased the property in 1999 for $76,500, but at some point, someone submitted a new deed to the Pima County recorder, using Gordon's name but changing the state from Arizona to Texas.
+Gordon only realized the ownership transfer had taken place when his title company sent him a letter congratulating him on the sale of his property for $200,000.
+A recorder's office is essentially like a library for property-related documents. Gabriella Cázares-Kelly, the Pima County recorder where Gordon's land is located, told BI in 2023 that the recorder's job is to record documents, not verify them.
+"We rely on title companies, on notaries --- which is why they are required to have insurance --- because it is ultimately up to those companies to have the safeguards to ensure that they're dealing with the correct property," she said.
+Gordon eventually got his property back after the title company signed a quitclaim deed that relinquished ownership, giving him his land back. The mess cost him about $9,000 in legal fees, he said.
+Petrescu said the owners of properties worth a fraction of the price of Spelling Manor are more likely to experience deed theft.
+"With these smaller transactions, a lot of closing agents are just trying to close these on a volume basis," Petrescu said. "It may be easier to take advantage of someone who's not crossing their t's, dotting their i's, because they're just juggling 10 files that day."
+In 2022, a lot in Fairfield, Connecticut, was sold after a fraudster impersonated its owner, a doctor named Daniel Kenigsberg. He discovered the sale after a friend told him that someone was building a home on his once-empty parcel of land.
+A "Daniel Kenigsberg" of Johannesburg had signed documents to try to steal the property, according to court documents viewed by BI.
+"The real problem is people who are average, normal people that finally saved up enough money to buy a house and are getting ripped off by a scam that they weren't prepared for," Adams said. "That's sort of the sad part here --- that those are the people that are going to be impacted a lot more."
+AI tools make it easier for fraudsters to scam anyone
+Scammers increasingly rely on artificial intelligence to pull off their cons, whether the medium is the phone, phishing by email, or a title transfer with a local record keeper.
+"Unfortunately, their techniques evolve with technology," Marty Kiar, the property appraiser in Broward County, Florida, told BI.
+Kiar said that in September, someone contacted a title company saying they had a vacant lot to sell in Hallandale Beach.
+When the title company pushed for identity verification, the purported seller offered to do a video call that turned out to be a deepfake or AI-generated video playing on a loop showing an image of a missing woman from a different state, NBC Miami reported.
+If the title company hadn't pushed for proof of the purported seller's identity, they "very easily could have gotten away with this scam," Kiar said.
+"It was all AI imagery," he said. "What I'm really fearful of is, as technology evolves more and more and more, I wouldn't be surprised if we see this more and more and more."
+One of AI's hallmarks is its ability to learn and digest enormous amounts of information. Property data is readily available to the public, and in some states, a simple search can unearth appraisal data, blueprints, transaction records, and even pictures of executed deeds. With AI, fake documents could be created faster and more realistic-looking.
+"They're just creating these AI models that are reading all of the public records and public data that they can possibly get their hands on, that are then creating a means by which they can manipulate that information," Adams said. "So it's like the ingestion is now automated because of AI models, and then the impersonation is a lot more sophisticated."
+An AI tool might be able to recognize a vacant property in a database faster than a human could or identify homes without mortgages attached to them (which could mark them as targets for a refinancing scheme).
+The amount of personal information available to fraudsters also makes impersonation easier.
+Kiar said his office has handled hundreds of fraud cases. Only two of those cases so far have involved AI, but he remains concerned that more are on the way.
+"The criminals are very, very smart," he said. "They're going to use the most up-to-date technology to try to scam somebody out of their property."
+
